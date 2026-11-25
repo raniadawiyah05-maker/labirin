@@ -1,0 +1,7 @@
+{
+  "name": "misi-penyelamatan-labirin-ajaib",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Game edukatif 2D untuk anak TK A (4-5 tahun). Situs statis, tanpa build.",
+  "license": "UNLICENSED"
+}
